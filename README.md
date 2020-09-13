@@ -4,7 +4,7 @@ A telegram-bot written in python that gives you RA/DEC of given TESS or SIMBAD o
 
 <img src="images/preview.gif">
 
-
+  
 
 ## Deploying Bot
 
@@ -20,7 +20,7 @@ A telegram-bot written in python that gives you RA/DEC of given TESS or SIMBAD o
 
 Remember you `TOKEN`. Define an environment variable `SIMTESS_BOT` with value `<TOKEN>` of you bot.
 
-
+  
 
 **Dependencies**
 
@@ -36,7 +36,7 @@ cd simtess-bot
 pip install -r requirements.txt
 ```
 
-
+  
 
 **Running Bot**
 
