@@ -1,0 +1,6 @@
+astroquery==0.4.1
+julian==0.14
+termcolor==1.1.0
+colorama==0.4.3
+bs4==0.0.1
+python-telegram-bot
